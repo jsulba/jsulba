@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Photographer/Creator)`**
 
-I'm a soon-to-be graduated full-stack developer by day and aspiring photographer by night (though technically not always at night). I absolutely love technology in all its different forms, and I'm naturally drawn to contribute my own creations to the digital world. 
+I'm a full-stack developer by day and aspiring photographer by night (though technically not always at night). I absolutely love technology in all its different forms, and I'm naturally drawn to contribute my own creations to the digital world. 
 
    <p align="left">
       <a href="#">
